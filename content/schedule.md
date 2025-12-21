@@ -4,5 +4,3 @@
 - 4:15 PM — Reception begins @ the [Cornerstone Theater](https://maps.app.goo.gl/XhUkMXzwgrowqoC19)
 - 6:00 PM — Dinner
 - 8:00 PM — Dancing
-
--

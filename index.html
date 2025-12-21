@@ -4,9 +4,9 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  <title>Matt & Partner – Wedding</title>
+  <title>Suzanne & Matt – Wedding</title>
 
-  <meta name="description" content="Wedding website for Matt & Partner" />
+  <meta name="description" content="Wedding website for Suzanne & Matt" />
 
   <!-- Simple, readable font -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,64 +17,40 @@
 </head>
 <body>
 
-  <header>
-    <h1>Matt & Partner</h1>
-    <p class="subtitle">We’re getting married</p>
-
-    <nav>
-      <a href="#details">Details</a>
-      <a href="#schedule">Schedule</a>
-      <a href="#travel">Travel</a>
-      <a href="#rsvp">RSVP</a>
-    </nav>
+  <header class="hero">
+    <div class="hero-content">
+       <h1>Suzanne & Matt</h1>
+      <p class="subtitle">We’re getting married!!!</p>
+    </div>
   </header>
 
   <main>
+    <nav>
+        <a href="#details">Details</a>
+        <a href="#schedule">Schedule</a>
+        <a href="#travel">Travel</a>
+        <a href="#rsvp">RSVP</a>
+      </nav>
 
-    <section id="details">
-      <h2>Details</h2>
-      <p>
-        <strong>Date:</strong> June 14, 2026<br>
-        <strong>Location:</strong> Somewhere Beautiful<br>
-        <strong>Dress code:</strong> Whatever makes you feel good
-      </p>
-    </section>
-
-    <section id="schedule">
-      <h2>Schedule</h2>
-      <ul>
-        <li><strong>3:30 PM</strong> — Ceremony</li>
-        <li><strong>4:15 PM</strong> — Cocktails</li>
-        <li><strong>6:00 PM</strong> — Dinner</li>
-        <li><strong>8:00 PM</strong> — Dancing</li>
-      </ul>
-    </section>
-
-    <section id="travel">
-      <h2>Travel & Stay</h2>
-      <p>
-        We recommend staying near <em>Neighborhood Name</em>.
-        More details coming soon.
-      </p>
-    </section>
-
-    <section id="rsvp">
-      <h2>RSVP</h2>
-      <p>
-        Please RSVP by <strong>May 1, 2026</strong>.
-      </p>
-      <p>
-        <a class="button" href="https://forms.gle/YOUR_FORM_LINK" target="_blank">
-          RSVP Here
-        </a>
-      </p>
-    </section>
-
+    <section id="details" data-md="content/details.md"></section>
+    <section id="schedule" data-md="content/schedule.md"></section>
+    <section id="travel" data-md="content/travel.md"></section>
+    <section id="rsvp" data-md="content/rsvp.md"></section>
   </main>
 
   <footer>
     <p>We can’t wait to celebrate with you ❤️</p>
   </footer>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+  document.querySelectorAll("[data-md]").forEach(async (section) => {
+    const path = section.getAttribute("data-md");
+    const response = await fetch(path);
+    const markdown = await response.text();
+    section.innerHTML = marked.parse(markdown);
+  });
+</script>
 
 </body>
 </html>

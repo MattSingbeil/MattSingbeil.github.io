@@ -1,0 +1,20 @@
+[
+    { 
+        "image": "images/carousel/best_day_ever.JPEG", 
+        "alt": "First trip together", 
+        "date": "June 2018", 
+        "caption": "Our first trip together" 
+    },
+    { 
+        "image": "images/carousel/first_home.JPEG", 
+        "alt": "Moved in together", 
+        "date": "Sept 2020", 
+        "caption": "Moving into our first place" 
+    },
+    { 
+        "image": "images/carousel/first_xmas.JPEG", 
+        "alt": "Engaged", 
+        "date": "Aug 2024", 
+        "caption": "She said yes ❤️" 
+    }
+]

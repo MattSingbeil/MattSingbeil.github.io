@@ -15,11 +15,12 @@
 
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
   <header class="hero">
     <div class="hero-content">
-       <h1>Suzanne & Matt</h1>
+       <h1 class="nowrap">Suzanne & Matt</h1>
       <p class="subtitle">We’re getting married!!!</p>
     </div>
   </header>
@@ -36,6 +37,23 @@
     <section id="schedule" data-md="content/schedule.md"></section>
     <section id="travel" data-md="content/travel.md"></section>
     <section id="rsvp" data-md="content/rsvp.md"></section>
+  
+      <section id="memories" class="carousel-section">
+    <h2>Our Story</h2>
+
+    <div class="carousel">
+      <button class="carousel-btn prev" aria-label="Previous">‹</button>
+
+      <div class="carousel-track">
+        <!-- Slides will be injected here by JS -->
+      </div>
+
+      <button class="carousel-btn next" aria-label="Next">›</button>
+    </div>
+  </section>
+
+
+  
   </main>
 
   <footer>
@@ -51,6 +69,8 @@
     section.innerHTML = marked.parse(markdown);
   });
 </script>
+
+<script src="carousel.js"></script>
 
 </body>
 </html>

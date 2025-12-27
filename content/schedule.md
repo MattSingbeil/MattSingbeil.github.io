@@ -19,5 +19,5 @@ The Cermony will be held at the Canmore Ranch
 - **6:00 PM** - Dinner is served *buffet style*
 - **6:45 PM** - Speeches
 - **8:00 PM** - Dancing begins!
-- **11:00 PM** - Last call
-- **11:30 AM** - Evening concludes
+- **12:30 AM** - Last call
+- **1:00 AM** - Evening concludes

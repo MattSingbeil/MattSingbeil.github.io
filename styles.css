@@ -38,6 +38,10 @@ header {
   padding: 4rem 1rem 2rem;
 }
 
+.map-container {
+  display: flex;
+  justify-content: center;
+}
 
 
 .hero {

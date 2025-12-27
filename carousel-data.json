@@ -1,0 +1,44 @@
+[
+    { 
+        "image": "images/carousel/best_day_ever.JPEG", 
+        "alt": "She said yes!", 
+        "date": "August 2025", 
+        "caption": "Best day ever!" 
+    },
+    { 
+        "image": "images/carousel/first_home.JPEG", 
+        "alt": "First home", 
+        "date": "June 2024", 
+        "caption": "Our first home together 🏡" 
+    },
+    { 
+        "image": "images/carousel/first_boston.JPEG", 
+        "alt": "Our first trip to Boston", 
+        "date": "May 2023", 
+        "caption": "Our first trip to Boston ✈️!" 
+    },
+    { 
+        "image": "images/carousel/fish_lakes.JPEG", 
+        "alt": "The annual backpacking trip", 
+        "date": "August 2025", 
+        "caption": "Annual backpacking trip to Fish Lakes 🥾" 
+    },
+    { 
+        "image": "images/carousel/taylor_swift_movie.JPEG", 
+        "alt": "Taylor Swift movie", 
+        "date": "October 2023", 
+        "caption": "Taylor Swift movie!" 
+    }, 
+    { 
+        "image": "images/carousel/training_for_revy.JPEG", 
+        "alt": "Training for Revy", 
+        "date": "May 2023", 
+        "caption": "Training for the Revy Ultra!" 
+    },
+    { 
+        "image": "images/carousel/iron_horse_ultra.JPEG", 
+        "alt": "Ironhorse ultra", 
+        "date": "May 2023", 
+        "caption": "Pacing Suzanne at the Ironhorse Ultra!" 
+    }
+]

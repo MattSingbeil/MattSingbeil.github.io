@@ -205,7 +205,6 @@ footer {
   position: relative;    /* if you use captions overlay */
 }
 
-
 .carousel-slide.active {
   display: block;
 }

@@ -175,7 +175,6 @@ footer {
   }
 }
 
-
 .carousel-section {
   margin: 4rem 0;
   text-align: center;
@@ -192,10 +191,14 @@ footer {
 }
 
 .carousel-slide {
-  display: none;         /* already used for active */
+  aspect-ratio: 3/4;    /* new in CSS */
   width: 100%;
-  max-width: 700px;      /* optional: max slide width */
-  height: 700px;         /* fixed height for all slides */
+  height: 200px;       /* fixed height for each slide */
+  overflow: hidden;
+  display: none;         /* already used for active */
+  /* width: 100%; */
+  max-width: 100%;      /* optional: max slide width */
+  height: auto;
   overflow: hidden;      /* hides anything outside the box */
   margin: 0 auto;        /* center horizontally */
   border-radius: 8px;    /* optional */
@@ -207,8 +210,9 @@ footer {
 }
 
 .carousel-slide img {
-  width: 100%;
-  border-radius: 8px;
+  max-width: 100%;
+  height: 600px;       /* fixed height for images */
+  object-fit: cover;
 }
 
 .caption {

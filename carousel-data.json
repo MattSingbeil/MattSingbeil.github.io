@@ -1,4 +1,10 @@
 [
+     { 
+        "image": "images/carousel/yyc_sun_run.JPEG", 
+        "alt": "YYC run", 
+        "date": "July 2025", 
+        "caption": "YYC sun run!!!" 
+    },
     { 
         "image": "images/carousel/best_day_ever.JPEG", 
         "alt": "She said yes!", 
@@ -21,7 +27,7 @@
         "image": "images/carousel/fish_lakes.JPEG", 
         "alt": "The annual backpacking trip", 
         "date": "August 2025", 
-        "caption": "Annual backpacking trip to Fish Lakes 🥾" 
+        "caption": "Annual backpacking trip! 🥾" 
     },
     { 
         "image": "images/carousel/taylor_swift_movie.JPEG", 
@@ -40,5 +46,233 @@
         "alt": "Ironhorse ultra", 
         "date": "May 2023", 
         "caption": "Pacing Suzanne at the Ironhorse Ultra!" 
+    },
+    { 
+        "image": "images/carousel/becoming_a_tradition.JPEG", 
+        "alt": "Becoming a tradition", 
+        "date": "December 2023", 
+        "caption": "Year #2!" 
+    },
+    { 
+        "image": "images/carousel/bwr.JPEG", 
+        "alt": "The Belgian Waffle Ride", 
+        "date": "May 2023", 
+        "caption": "Suzanne PARTICIPATING in the Belgian Waffle Ride!" 
+    },
+    { 
+        "image": "images/carousel/calgary_ironman.JPEG", 
+        "alt": "Calgary 70.3 Ironman", 
+        "date": "August 2023", 
+        "caption": "Survived the Calgary 70.3 Ironman together!" 
+    },
+    { 
+        "image": "images/carousel/canmore_christmas_run2.JPEG", 
+        "alt": "The annual Canmore Christmas run", 
+        "date": "December 2025", 
+        "caption": "The yearly Canmore Christmas run!" 
+    },
+    { 
+        "image": "images/carousel/canmore_christmas_run.JPEG", 
+        "alt": "The annual Canmore Christmas run", 
+        "date": "January 2025", 
+        "caption": "The yearly Canmore Christmas run!" 
+    },
+    { 
+        "image": "images/carousel/chilly_bowriver.JPEG", 
+        "alt": "Training in Calgary", 
+        "date": "February 2025", 
+        "caption": "Trying to stay warm while training in Calgary!" 
+    },
+    { 
+        "image": "images/carousel/evan_alissa_yyc.JPEG", 
+        "alt": "Evan and Alissa came to visit!", 
+        "date": "December 2025", 
+        "caption": "Evan and Alissa came to visit!" 
+    },
+    { 
+        "image": "images/carousel/fernie_fall.JPEG", 
+        "alt": "Fernie in the fall!", 
+        "date": "October 2023", 
+        "caption": "Fernie in the fall for Mac and Jay's wedding!" 
+    },
+    { 
+        "image": "images/carousel/first_bike_trip.JPEG", 
+        "alt": "Coming back from Vancouver Island", 
+        "date": "June 2023", 
+        "caption": "Stopover in Revelstoke after a trip to the coast!" 
+    },
+    { 
+        "image": "images/carousel/first_canmore_run.JPEG", 
+        "alt": "Canmore Half!", 
+        "date": "September 2022", 
+        "caption": "Matt realizing he's going to need to train to keep up!" 
+    },
+    { 
+        "image": "images/carousel/first_gizmo.JPEG", 
+        "alt": "First llama pic", 
+        "date": "December 2022", 
+        "caption": "The start of our Christmas tradition!" 
+    },
+    { 
+        "image": "images/carousel/heikos_fernie.JPEG", 
+        "alt": "First trip to Fernie", 
+        "date": "August 2022", 
+        "caption": "Attempting Heiko's hike in Fernie!" 
+    },
+    { 
+        "image": "images/carousel/ironhorse_100_finish.JPEG", 
+        "alt": "Ironhorse ultra finish", 
+        "date": "October 2024", 
+        "caption": "Suzanne finished her first 100km ultra!!" 
+    },
+    { 
+        "image": "images/carousel/lake_ohara_run.JPEG", 
+        "alt": "Lake Ohara run", 
+        "date": "July 2025", 
+        "caption": "Running up to Lake Ohara" 
+    },
+    { 
+        "image": "images/carousel/matching_hats.JPEG", 
+        "alt": "Matching hats", 
+        "date": "November 2022", 
+        "caption": "Matching Toques :)" 
+    },
+    { 
+        "image": "images/carousel/matts_30th.JPEG", 
+        "alt": "Matt's 30th birthday", 
+        "date": "November 2022", 
+        "caption": "Matt's 30th birthday!" 
+    },
+    { 
+        "image": "images/carousel/matts_bike_race.JPEG", 
+        "alt": "Cyclocross in Calgary", 
+        "date": "October 2022", 
+        "caption": "Cyclocross in Calgary!" 
+    },
+    { 
+        "image": "images/carousel/matts_first_stchatherins.JPEG", 
+        "alt": "St Catherine's", 
+        "date": "October 2022", 
+        "caption": "Matt meeting Lauren and Jyrkie!" 
+    },
+    { 
+        "image": "images/carousel/matts_grandparents.JPEG", 
+        "alt": "Matt's Grandparents", 
+        "date": "December 2022", 
+        "caption": "Visiting with Matt's grandparents!" 
+    },
+    { 
+        "image": "images/carousel/mexico.JPEG", 
+        "alt": "Mexico trip", 
+        "date": "February 2024", 
+        "caption": "Visiting Queretaro, Mexico!" 
+    },
+    { 
+        "image": "images/carousel/night_training.JPEG", 
+        "alt": "Night training", 
+        "date": "September 2024", 
+        "caption": "Training at night to prepare for the Ironhorse Ultra!" 
+    },
+    { 
+        "image": "images/carousel/palm_springs.JPEG", 
+        "alt": "Palm Springs", 
+        "date": "September 2024", 
+        "caption": "Escaping winter to Palm Springs!" 
+    },
+    { 
+        "image": "images/carousel/prarie_view_running.JPEG", 
+        "alt": "Prairie View Loop", 
+        "date": "July 2025", 
+        "caption": "Training run for the Revelstoke Ultra at the Prairie View!" 
+    },
+    { 
+        "image": "images/carousel/revy_50.JPEG", 
+        "alt": "Revelstoke 50", 
+        "date": "August 2025", 
+        "caption": "First climb at the Revelstoke 50!" 
+    },
+    { 
+        "image": "images/carousel/rockwall.JPEG", 
+        "alt": "Rockwall", 
+        "date": "September 2025", 
+        "caption": "Most of the way done the Rockwall loop!" 
+    },
+    { 
+        "image": "images/carousel/run_to_assiniboine.JPEG", 
+        "alt": "Assiniboine", 
+        "date": "August 2024", 
+        "caption": "Trail run into Assiniboine!" 
+    },
+    { 
+        "image": "images/carousel/running.JPEG", 
+        "alt": "running", 
+        "date": "April 2025", 
+        "caption": "Enjoying quality time together!" 
+    },
+    { 
+        "image": "images/carousel/saltspring_friends.JPEG", 
+        "alt": "Saltspring friends", 
+        "date": "November 2025", 
+        "caption": "Escaping to Salt Spring Island to visit friends!" 
+    },
+    { 
+        "image": "images/carousel/san_diego.JPEG", 
+        "alt": "San Diego", 
+        "date": "February 2024", 
+        "caption": "Suzanne happy in the San Diego sun!" 
+    },
+    { 
+        "image": "images/carousel/seattle.JPEG", 
+        "alt": "Seattle", 
+        "date": "April 2024", 
+        "caption": "The market in Seattle!" 
+    },
+    { 
+        "image": "images/carousel/second_anniversary.JPEG", 
+        "alt": "Second Anniversary", 
+        "date": "May 2024", 
+        "caption": "Ha Ling on our second anniversary!" 
+    },
+    { 
+        "image": "images/carousel/sundre.JPEG", 
+        "alt": "Sundre", 
+        "date": "October 2023", 
+        "caption": "Some quiet time out by Sundre" 
+    },
+    { 
+        "image": "images/carousel/sunrise_assiniboine.JPEG", 
+        "alt": "Assiniboine", 
+        "date": "October 2023", 
+        "caption": "Sunrise hike at Assiniboine" 
+    },
+    { 
+        "image": "images/carousel/vancouver.JPEG", 
+        "alt": "Vancouver before the marathon", 
+        "date": "May 2025", 
+        "caption": "Vancouver before the marathon" 
+    },
+    { 
+        "image": "images/carousel/vancouver_marathon.JPEG", 
+        "alt": "Vancouver after the marathon", 
+        "date": "May 2025", 
+        "caption": "Vancouver after the marathon" 
+    },
+    { 
+        "image": "images/carousel/wonder_peak.JPEG", 
+        "alt": "Wonder Peak", 
+        "date": "August 2024", 
+        "caption": "Hiking up to Wonder Peak!" 
+    },
+    { 
+        "image": "images/carousel/xmas_2025_gizmo.JPEG", 
+        "alt": "Gizmo 2025", 
+        "date": "December 2025", 
+        "caption": "The 3rd year of our Christmas tradition!" 
+    },
+    { 
+        "image": "images/carousel/xmas_in_canmore.JPEG", 
+        "alt": "Canmore Christmas 2025", 
+        "date": "December 2024", 
+        "caption": "Sam and Lauren visiting for Christmas!" 
     }
 ]

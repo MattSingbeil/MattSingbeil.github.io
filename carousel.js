@@ -17,7 +17,6 @@ fetch('carousel-data.json')
         <img src="${item.image}" alt="${item.alt}">
         <div class="caption">
           <div class="date">${item.date}</div>
-          <p>${item.caption}</p>
         </div>
       `;
       carouselTrack.appendChild(slide);

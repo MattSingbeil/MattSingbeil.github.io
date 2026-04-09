@@ -72,22 +72,10 @@
         "caption": "The yearly Canmore Christmas run!" 
     },
     { 
-        "image": "images/carousel/canmore_christmas_run.JPEG", 
-        "alt": "The annual Canmore Christmas run", 
-        "date": "January 2025", 
-        "caption": "The yearly Canmore Christmas run!" 
-    },
-    { 
         "image": "images/carousel/chilly_bowriver.JPEG", 
         "alt": "Training in Calgary", 
         "date": "February 2025", 
         "caption": "Trying to stay warm while training in Calgary!" 
-    },
-    { 
-        "image": "images/carousel/evan_alissa_yyc.JPEG", 
-        "alt": "Evan and Alissa came to visit!", 
-        "date": "December 2025", 
-        "caption": "Evan and Alissa came to visit!" 
     },
     { 
         "image": "images/carousel/fernie_fall.JPEG", 
@@ -144,18 +132,6 @@
         "caption": "Matt's 30th birthday!" 
     },
     { 
-        "image": "images/carousel/matts_bike_race.JPEG", 
-        "alt": "Cyclocross in Calgary", 
-        "date": "October 2022", 
-        "caption": "Cyclocross in Calgary!" 
-    },
-    { 
-        "image": "images/carousel/matts_first_stchatherins.JPEG", 
-        "alt": "St Catherine's", 
-        "date": "October 2022", 
-        "caption": "Matt meeting Lauren and Jyrki!" 
-    },
-    { 
         "image": "images/carousel/matts_grandparents.JPEG", 
         "alt": "Matt's Grandparents", 
         "date": "December 2022", 
@@ -208,12 +184,6 @@
         "alt": "running", 
         "date": "April 2025", 
         "caption": "Enjoying quality time together!" 
-    },
-    { 
-        "image": "images/carousel/saltspring_friends.JPEG", 
-        "alt": "Saltspring friends", 
-        "date": "November 2025", 
-        "caption": "Escaping to Salt Spring Island to visit friends!" 
     },
     { 
         "image": "images/carousel/san_diego.JPEG", 

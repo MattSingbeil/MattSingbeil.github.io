@@ -24,10 +24,76 @@
         "caption": "Our first trip to Boston ✈️!" 
     },
     { 
-        "image": "images/carousel/fish_lakes.JPEG", 
+        "image": "images/carousel/fish_lakes.webp", 
         "alt": "The annual backpacking trip", 
         "date": "August 2025", 
         "caption": "Annual backpacking trip! 🥾" 
+    },
+    { 
+        "image": "images/carousel/ucluelet.jpeg", 
+        "alt": "", 
+        "date": "May 2023", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/canmore_winter_run.jpeg", 
+        "alt": "", 
+        "date": "December 2022", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/grainary_road.jpeg", 
+        "alt": "", 
+        "date": "December 2024", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/iceline.jpeg", 
+        "alt": "", 
+        "date": "July 2025", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/jasper.jpeg", 
+        "alt": "", 
+        "date": "June 2024", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/matts_bike_race.jpeg", 
+        "alt": "", 
+        "date": "October 2022", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/reservoir_run.jpeg", 
+        "alt": "", 
+        "date": "October 2022", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/salt_spring.jpeg", 
+        "alt": "", 
+        "date": "October 2022", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/the_box.JPEG", 
+        "alt": "", 
+        "date": "September 2022", 
+        "caption": "" 
+    },
+    { 
+        "image": "images/carousel/the_lake_christmas.jpeg", 
+        "alt": "", 
+        "date": "September 2022", 
+        "caption": "" 
+    },
+    {
+        "image": "images/carousel/west_bragg.jpeg", 
+        "alt": "", 
+        "date": "June 2025", 
+        "caption": "" 
     },
     { 
         "image": "images/carousel/taylor_swift_movie.JPEG", 
@@ -36,7 +102,7 @@
         "caption": "Taylor Swift movie!" 
     }, 
     { 
-        "image": "images/carousel/training_for_revy.JPEG", 
+        "image": "images/carousel/training_for_revy.webp", 
         "alt": "Training for Revy", 
         "date": "May 2023", 
         "caption": "Training for the Revy Ultra!" 
@@ -90,7 +156,7 @@
         "caption": "Stopover in Revelstoke after a trip to the coast!" 
     },
     { 
-        "image": "images/carousel/first_canmore_run.JPEG", 
+        "image": "images/carousel/first_canmore_run.webp", 
         "alt": "Canmore Half!", 
         "date": "September 2022", 
         "caption": "Matt realizing he's going to need to train to keep up!" 
@@ -180,7 +246,7 @@
         "caption": "Trail run into Assiniboine!" 
     },
     { 
-        "image": "images/carousel/running.JPEG", 
+        "image": "images/carousel/running.webp", 
         "alt": "running", 
         "date": "April 2025", 
         "caption": "Enjoying quality time together!" 
@@ -210,7 +276,7 @@
         "caption": "Some quiet time out by Sundre" 
     },
     { 
-        "image": "images/carousel/sunrise_assiniboine.JPEG", 
+        "image": "images/carousel/sunrise_assiniboine.webp", 
         "alt": "Assiniboine", 
         "date": "October 2023", 
         "caption": "Sunrise hike at Assiniboine" 

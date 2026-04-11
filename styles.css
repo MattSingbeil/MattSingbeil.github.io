@@ -212,7 +212,7 @@ footer {
 .carousel-slide img {
   width: 100%;
   height: 100%;          /* Tells image to fill the aspect-ratio box */
-  object-fit: cover;     /* Crops to fill without stretching */
+  object-fit: contain;     /* Crops to fill without stretching */
   object-position: center;
 }
 

@@ -1,8 +1,10 @@
 ## Wedding Day Schedule
 
+**Please note: While the location and the date are set the exact details of the itinerary have not been finalized. We will update the site and send out an email once things are official!**
+
 ### Ceremony at the [Canmore Ranch](https://maps.app.goo.gl/4S6Wp6RE6vrDGWrz9)
 
-The Cermony will be held at the Canmore Ranch
+The Ceremony will be held at the Canmore Ranch
 
 - **12:30 PM** - Guest arrive
 - **1:00 PM** - Ceremony begins

@@ -6,9 +6,9 @@
 
 The Ceremony will be held at the Canmore Ranch
 
-- **12:30 PM** - Guest arrive
-- **1:00 PM** - Ceremony begins
-- **1:30 PM** - Ceremony ends
+- **2:30 PM** - Guest arrive
+- **3:00 PM** - Ceremony begins
+- **3:30 PM** - Ceremony ends
 
 *There will be a break between the ceremony and reception. Guests are welcome to explore Canmore during this time.*
 
@@ -16,8 +16,7 @@ The Ceremony will be held at the Canmore Ranch
 
 ### Reception at the [Cornerstone Theater](https://maps.app.goo.gl/XhUkMXzwgrowqoC19)
 
-- **4:00 PM** - Doors open
-- **4:30 PM** - Welcome cocktails
+- **5:00 PM** - Doors open + welcome cocktails!
 - **6:00 PM** - Dinner is served *buffet style*
 - **6:45 PM** - Speeches
 - **8:00 PM** - Dancing begins!

@@ -10,7 +10,7 @@ The Ceremony will be held at the Canmore Ranch
 - **3:00 PM** - Ceremony begins
 - **3:30 PM** - Ceremony ends
 
-*There will be a break between the ceremony and reception. Guests are welcome to explore Canmore during this time.*
+*There will be a break between the ceremony and reception. Please stay around an enjoy the warming tent as we organize into groups for some photos!*
 
 *Please note: transportation between venues is not provided.*
 

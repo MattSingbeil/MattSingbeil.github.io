@@ -1,6 +1,4 @@
-## Wedding Day Schedule
-
-**Please note: While the location and the date are set the exact details of the itinerary have not been finalized. We will update the site and send out an email once things are official!**
+## Schedule
 
 ### Ceremony at the [Canmore Ranch](https://maps.app.goo.gl/4S6Wp6RE6vrDGWrz9)
 
@@ -18,7 +16,7 @@ The Ceremony will be held at the Canmore Ranch
 
 - **5:00 PM** - Doors open + welcome cocktails!
 - **6:00 PM** - Dinner is served *buffet style*
-- **6:45 PM** - Speeches
-- **8:00 PM** - Dancing begins!
+- **7:00 PM** - Speeches
+- **7:30 PM** - Dancing begins!
 - **12:30 AM** - Last call
 - **1:00 AM** - Evening concludes
